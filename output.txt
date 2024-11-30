@@ -1,0 +1,91 @@
+
+--- Iterazione 0 ---
+Tabella di routing per il nodo A:
+Destinazione   Costo     Prossimo Hop   
+A              0         A              
+B              1         B              
+C              3         B              
+D              5         B              
+----------------------------------------
+Tabella di routing per il nodo B:
+Destinazione   Costo     Prossimo Hop   
+A              1         A              
+B              0         B              
+C              2         C              
+D              3         C              
+----------------------------------------
+Tabella di routing per il nodo C:
+Destinazione   Costo     Prossimo Hop   
+A              3         B              
+B              2         B              
+C              0         C              
+D              1         D              
+----------------------------------------
+Tabella di routing per il nodo D:
+Destinazione   Costo     Prossimo Hop   
+A              4         C              
+B              3         C              
+C              1         C              
+D              0         D              
+----------------------------------------
+
+--- Iterazione 1 ---
+Tabella di routing per il nodo A:
+Destinazione   Costo     Prossimo Hop   
+A              0         A              
+B              1         B              
+C              3         B              
+D              4         B              
+----------------------------------------
+Tabella di routing per il nodo B:
+Destinazione   Costo     Prossimo Hop   
+A              1         A              
+B              0         B              
+C              2         C              
+D              3         C              
+----------------------------------------
+Tabella di routing per il nodo C:
+Destinazione   Costo     Prossimo Hop   
+A              3         B              
+B              2         B              
+C              0         C              
+D              1         D              
+----------------------------------------
+Tabella di routing per il nodo D:
+Destinazione   Costo     Prossimo Hop   
+A              4         C              
+B              3         C              
+C              1         C              
+D              0         D              
+----------------------------------------
+
+--- Iterazione 2 ---
+Tabella di routing per il nodo A:
+Destinazione   Costo     Prossimo Hop   
+A              0         A              
+B              1         B              
+C              3         B              
+D              4         B              
+----------------------------------------
+Tabella di routing per il nodo B:
+Destinazione   Costo     Prossimo Hop   
+A              1         A              
+B              0         B              
+C              2         C              
+D              3         C              
+----------------------------------------
+Tabella di routing per il nodo C:
+Destinazione   Costo     Prossimo Hop   
+A              3         B              
+B              2         B              
+C              0         C              
+D              1         D              
+----------------------------------------
+Tabella di routing per il nodo D:
+Destinazione   Costo     Prossimo Hop   
+A              4         C              
+B              3         C              
+C              1         C              
+D              0         D              
+----------------------------------------
+Le tabelle di routing sono stabili.
