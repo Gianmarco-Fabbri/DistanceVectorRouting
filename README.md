@@ -7,6 +7,7 @@ Questo progetto simula un semplice protocollo di routing utilizzando l'algoritmo
    - `node.py`: Contiene la classe `Node` che rappresenta un nodo nella rete.
    - `network_simulation.py`: Contiene le funzioni per simulare la rete.
    - `main.py`: Punto di ingresso del programma che configura la rete e avvia la simulazione.
+- `Report.pdf`: Relazione finale
 - `README.md`
 
 ## Come Eseguire la Simulazione
