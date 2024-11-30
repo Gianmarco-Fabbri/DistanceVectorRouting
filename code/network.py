@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Modulo network_simulation
+Modulo network
 
 Contiene le funzioni per simulare la rete utilizzando il protocollo
 Distance Vector Routing.
